@@ -1,3 +1,6 @@
 [submodule "ano-1/logica-e-teoria-de-conjuntos"]
 	path = ano-1/logica-e-teoria-de-conjuntos
 	url = https://github.com/cpmachado/logica-e-teoria-de-conjuntos.git
+[submodule "ano-1/historia-da-matematica"]
+	path = ano-1/historia-da-matematica
+	url = https://github.com/cpmachado/historia-da-matematica.git
