@@ -4,3 +4,6 @@
 [submodule "ano-1/historia-da-matematica"]
 	path = ano-1/historia-da-matematica
 	url = https://github.com/cpmachado/historia-da-matematica.git
+[submodule "ano-2/equacoes-diferenciais"]
+	path = ano-2/equacoes-diferenciais
+	url = https://github.com/cpmachado/equacoes-diferenciais.git
