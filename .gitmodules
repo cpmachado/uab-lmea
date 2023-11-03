@@ -10,3 +10,6 @@
 [submodule "ano-1/elementos-de-analise-infinitesimal-i"]
 	path = ano-1/elementos-de-analise-infinitesimal-i
 	url = https://github.com/cpmachado/elementos-de-analise-infinitesimal-i.git
+[submodule "ano-1/algebra-linear-i"]
+	path = ano-1/algebra-linear-i
+	url = https://github.com/cpmachado/algebra-linear-i.git
