@@ -16,3 +16,6 @@
 [submodule "ano-2/estatistica-aplicada-i"]
 	path = ano-2/estatistica-aplicada-i
 	url = https://github.com/cpmachado/estatistica-aplicada-i.git
+[submodule "ano-2/elementos-de-analise-infinitesimal-iii"]
+	path = ano-2/elementos-de-analise-infinitesimal-iii
+	url = https://github.com/cpmachado/elementos-de-analise-infinitesimal-iii.git
