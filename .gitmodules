@@ -13,3 +13,6 @@
 [submodule "ano-1/algebra-linear-i"]
 	path = ano-1/algebra-linear-i
 	url = https://github.com/cpmachado/algebra-linear-i.git
+[submodule "ano-2/estatistica-aplicada-i"]
+	path = ano-2/estatistica-aplicada-i
+	url = https://github.com/cpmachado/estatistica-aplicada-i.git
